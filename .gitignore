@@ -1,0 +1,13 @@
+# Entire assets tree (root or under version folders, e.g. v0.103.2/assets/)
+assets/
+
+# Sample / placeholder cards (root or under version folders)
+**/cards/_samples/
+
+# Any card file with "deprecated" in the name (any folder depth)
+**/*deprecated*
+**/*DEPRECATED*
+
+# Mad Science colorless cards (base + upgraded)
+**/cards/colorless/Mad-Science*
+**/cards/colorless/*MAD_SCIENCE*
