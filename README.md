@@ -22,13 +22,11 @@ The overlay is meant to complement gameplay, not replace it: persistent, accurat
 
 ```
 v<game-version>/
-  assets/          # Raw/baked assets from extract (see .gitignore)
   cards/           # Card metadata and references (as published)
   ...
 ```
 
 - **Version folders** — Named after the game build (e.g. `v0.103.2/`). Add a new folder when a new patch is extracted and validated.
-- **Metadata** — JSON files describe items (id, name, description, rarity, icon URLs, preview composition, etc.) so consumers do not need to parse game binaries.
 - **Images** — Full asset trees may be omitted from git where they are large or regenerated; see `.gitignore`. Metadata still records canonical paths and cache-busting query parameters for icons as produced by the extract pipeline.
 
 Some paths are intentionally excluded from version control (sample cards, deprecated entries, and other non-shipping content). See `.gitignore` for the current rules.
@@ -37,7 +35,6 @@ Some paths are intentionally excluded from version control (sample cards, deprec
 
 | Repository | Role |
 |------------|------|
-| **sts2-image-extract** | Tooling and workflow to pull images and bake previews from the game. |
 | **sts2-image-versions** (this repo) | Published, version-tagged snapshots for the community, overlays, and downstream tools. |
 
 Typical flow: run or update the extract project for a new patch → copy or publish the resulting tree into a new `v*` folder here → commit so consumers can pin to that tag or folder.
