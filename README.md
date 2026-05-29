@@ -1,6 +1,6 @@
 # sts2-image-versions
 
-Versioned reference data for *Slay the Spire 2* game images and attributes. Currrently I am only extracting and creating the cards but hopefully soon I will include potions and relics. The card images are reconstructed from the game itself and are not exact duplicates. I have done my best to make them as close as possible so that content creators can use them for their videos and streams.
+Versioned reference data for *Slay the Spire 2* game images and attributes. Images are reconstructed from the game itself and are not exact duplicates. I have done my best to make images as close as possible so that content creators can use them for their videos and streams.
 
 **sts2-image-versions** keeps a durable, browsable history so anyone can look up *which image belonged to which game version*, without digging through local extract folders or old VODs.
 
@@ -31,7 +31,10 @@ The overlay is meant to complement gameplay, not replace it: persistent, accurat
 
 ```
 v<game-version>/
-  cards/           # Card metadata and references (as published)
+  cards/           # Card metadata and references
+  potions/         # Potion metadata and references
+  relics/          # Relics metadata and references
+  item-index.json  # Catalog of all images in the set. Consumed by [Stream Overlay](https://github.com/quality1441/sts2-stream-overlay) project.
   ...
 ```
 
@@ -39,14 +42,6 @@ v<game-version>/
 - **Images** — Full asset trees may be omitted from git where they are large or regenerated; see `.gitignore`. Metadata still records canonical paths and cache-busting query parameters for icons as produced by the extract pipeline.
 
 Some paths are intentionally excluded from version control (sample cards, deprecated entries, and other non-shipping content). See `.gitignore` for the current rules.
-
-## Relationship to sts2-image-extract (private repo)
-
-| Repository | Role |
-|------------|------|
-| **sts2-image-versions** (this repo) | Published, version-tagged snapshots for the community, overlays, and downstream tools. |
-
-Typical flow: run or update the extract project for a new patch → copy or publish the resulting tree into a new `v*` folder here → commit so consumers can pin to that tag or folder.
 
 ## Who might use this
 
