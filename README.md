@@ -21,9 +21,9 @@ Content types are organized starting with **cards**, and expanding to **potions*
 
 ### Content creator overlay
 
-This repo also backs a **content-creation overlay** for STS2 streamers and video creators that is currently in development. During live streams or recordings, the overlay can show card art, names, descriptions, and related details on screen so viewers can read them **after** the moment has passed, extremely useful when gameplay moves quickly and chat-only explanations disappear. 
+This repo also backs a [**content-creation overlay**](https://github.com/quality1441/sts2-stream-overlay) for STS2 streamers and video creators that is under development. During live streams or recordings, the overlay can show card art, names, descriptions, and related details on screen so viewers can read them **after** the moment has passed, extremely useful when gameplay moves quickly and chat-only explanations disappear. 
 
-I have been creating sts2 videos as time permits and been slowed by the editting effort involved. I like to display each item (card, relic, potion) on the screen _after_ the selection has been made in a larger format for the viewer to see the details. The **content-creation overlay** I am working on will do that automatically while i play the game, saving me multiple hours of editing per video.
+I have been creating sts2 videos as time permits and been slowed by the editting effort involved. I like to display each item (card, relic, potion) on the screen _after_ the selection has been made in a larger format for the viewer to see the details. The [**content-creation overlay**](https://github.com/quality1441/sts2-stream-overlay) I am working on will do that automatically while i play the game, saving me multiple hours of editing per video.
 
 The overlay is meant to complement gameplay, not replace it: persistent, accurate visuals tied to the same versioned data this repository stores.
 
