@@ -11,3 +11,5 @@ assets/
 # Mad Science colorless cards (base + upgraded)
 **/cards/colorless/Mad-Science*
 **/cards/colorless/*MAD_SCIENCE*
+/scripts
+/v0.103.2/relics/fallback

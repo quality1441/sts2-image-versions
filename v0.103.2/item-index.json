@@ -1,6 +1,6 @@
 {
   "gameVersion": "v0.103.2",
-  "generatedAt": "2026-05-28T22:41:55.4764576+00:00",
+  "generatedAt": "2026-05-29T19:43:10.8213284+00:00",
   "items": [
     {
       "kind": "card",
@@ -11,7 +11,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_APOTHEOSIS.json"
+        "assets/cardpreview_bake/items/colorless/ancient/colorless_APOTHEOSIS.json"
       ]
     },
     {
@@ -23,7 +23,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Apotheosis\u002B.json"
+        "assets/cardpreview_bake/items/colorless/ancient/Apotheosis\u002B.json"
       ]
     },
     {
@@ -35,7 +35,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_APPARITION.json"
+        "assets/cardpreview_bake/items/colorless/ancient/colorless_APPARITION.json"
       ]
     },
     {
@@ -47,7 +47,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Apparition\u002B.json"
+        "assets/cardpreview_bake/items/colorless/ancient/Apparition\u002B.json"
       ]
     },
     {
@@ -59,7 +59,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_BRIGHTEST_FLAME.json"
+        "assets/cardpreview_bake/items/colorless/ancient/colorless_BRIGHTEST_FLAME.json"
       ]
     },
     {
@@ -71,7 +71,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Brightest-Flame\u002B.json"
+        "assets/cardpreview_bake/items/colorless/ancient/Brightest-Flame\u002B.json"
       ]
     },
     {
@@ -83,7 +83,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_MAUL.json"
+        "assets/cardpreview_bake/items/colorless/ancient/colorless_MAUL.json"
       ]
     },
     {
@@ -95,7 +95,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Maul\u002B.json"
+        "assets/cardpreview_bake/items/colorless/ancient/Maul\u002B.json"
       ]
     },
     {
@@ -107,7 +107,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_NEOWS_FURY.json"
+        "assets/cardpreview_bake/items/colorless/ancient/colorless_NEOWS_FURY.json"
       ]
     },
     {
@@ -119,7 +119,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Neow\u0027s-Fury\u002B.json"
+        "assets/cardpreview_bake/items/colorless/ancient/Neow\u0027s-Fury\u002B.json"
       ]
     },
     {
@@ -131,7 +131,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_RELAX.json"
+        "assets/cardpreview_bake/items/colorless/ancient/colorless_RELAX.json"
       ]
     },
     {
@@ -143,7 +143,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Relax\u002B.json"
+        "assets/cardpreview_bake/items/colorless/ancient/Relax\u002B.json"
       ]
     },
     {
@@ -155,7 +155,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_WHISTLE.json"
+        "assets/cardpreview_bake/items/colorless/ancient/colorless_WHISTLE.json"
       ]
     },
     {
@@ -167,7 +167,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Whistle\u002B.json"
+        "assets/cardpreview_bake/items/colorless/ancient/Whistle\u002B.json"
       ]
     },
     {
@@ -179,7 +179,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_WISH.json"
+        "assets/cardpreview_bake/items/colorless/ancient/colorless_WISH.json"
       ]
     },
     {
@@ -191,7 +191,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Wish\u002B.json"
+        "assets/cardpreview_bake/items/colorless/ancient/Wish\u002B.json"
       ]
     },
     {
@@ -203,7 +203,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_BYRD_SWOOP.json"
+        "assets/cardpreview_bake/items/colorless/event/colorless_BYRD_SWOOP.json"
       ]
     },
     {
@@ -215,7 +215,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Byrd-Swoop\u002B.json"
+        "assets/cardpreview_bake/items/colorless/event/Byrd-Swoop\u002B.json"
       ]
     },
     {
@@ -227,7 +227,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_ENLIGHTENMENT.json"
+        "assets/cardpreview_bake/items/colorless/event/colorless_ENLIGHTENMENT.json"
       ]
     },
     {
@@ -239,7 +239,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Enlightenment\u002B.json"
+        "assets/cardpreview_bake/items/colorless/event/Enlightenment\u002B.json"
       ]
     },
     {
@@ -251,7 +251,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_EXTERMINATE.json"
+        "assets/cardpreview_bake/items/colorless/event/colorless_EXTERMINATE.json"
       ]
     },
     {
@@ -263,7 +263,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Exterminate\u002B.json"
+        "assets/cardpreview_bake/items/colorless/event/Exterminate\u002B.json"
       ]
     },
     {
@@ -275,7 +275,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_FEEDING_FRENZY.json"
+        "assets/cardpreview_bake/items/colorless/event/colorless_FEEDING_FRENZY.json"
       ]
     },
     {
@@ -287,7 +287,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Feeding-Frenzy\u002B.json"
+        "assets/cardpreview_bake/items/colorless/event/Feeding-Frenzy\u002B.json"
       ]
     },
     {
@@ -299,7 +299,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_MAD_SCIENCE.json"
+        "assets/cardpreview_bake/items/colorless/event/colorless_MAD_SCIENCE.json"
       ]
     },
     {
@@ -311,7 +311,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Mad-Science\u002B.json"
+        "assets/cardpreview_bake/items/colorless/event/Mad-Science\u002B.json"
       ]
     },
     {
@@ -323,7 +323,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_METAMORPHOSIS.json"
+        "assets/cardpreview_bake/items/colorless/event/colorless_METAMORPHOSIS.json"
       ]
     },
     {
@@ -335,7 +335,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Metamorphosis\u002B.json"
+        "assets/cardpreview_bake/items/colorless/event/Metamorphosis\u002B.json"
       ]
     },
     {
@@ -347,7 +347,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_PECK.json"
+        "assets/cardpreview_bake/items/colorless/event/colorless_PECK.json"
       ]
     },
     {
@@ -359,7 +359,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Peck\u002B.json"
+        "assets/cardpreview_bake/items/colorless/event/Peck\u002B.json"
       ]
     },
     {
@@ -371,7 +371,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_SQUASH.json"
+        "assets/cardpreview_bake/items/colorless/event/colorless_SQUASH.json"
       ]
     },
     {
@@ -383,7 +383,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Squash\u002B.json"
+        "assets/cardpreview_bake/items/colorless/event/Squash\u002B.json"
       ]
     },
     {
@@ -395,7 +395,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_TORIC_TOUGHNESS.json"
+        "assets/cardpreview_bake/items/colorless/event/colorless_TORIC_TOUGHNESS.json"
       ]
     },
     {
@@ -407,7 +407,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Toric-Toughness\u002B.json"
+        "assets/cardpreview_bake/items/colorless/event/Toric-Toughness\u002B.json"
       ]
     },
     {
@@ -1211,7 +1211,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_FUEL.json"
+        "assets/cardpreview_bake/items/colorless/token/colorless_FUEL.json"
       ]
     },
     {
@@ -1223,7 +1223,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Fuel\u002B.json"
+        "assets/cardpreview_bake/items/colorless/token/Fuel\u002B.json"
       ]
     },
     {
@@ -1235,7 +1235,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_GIANT_ROCK.json"
+        "assets/cardpreview_bake/items/colorless/token/colorless_GIANT_ROCK.json"
       ]
     },
     {
@@ -1247,7 +1247,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Giant-Rock\u002B.json"
+        "assets/cardpreview_bake/items/colorless/token/Giant-Rock\u002B.json"
       ]
     },
     {
@@ -1259,7 +1259,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_LUMINESCE.json"
+        "assets/cardpreview_bake/items/colorless/token/colorless_LUMINESCE.json"
       ]
     },
     {
@@ -1271,7 +1271,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Luminesce\u002B.json"
+        "assets/cardpreview_bake/items/colorless/token/Luminesce\u002B.json"
       ]
     },
     {
@@ -1283,7 +1283,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_MINION_DIVE_BOMB.json"
+        "assets/cardpreview_bake/items/colorless/token/colorless_MINION_DIVE_BOMB.json"
       ]
     },
     {
@@ -1295,7 +1295,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Minion-Dive-Bomb\u002B.json"
+        "assets/cardpreview_bake/items/colorless/token/Minion-Dive-Bomb\u002B.json"
       ]
     },
     {
@@ -1307,7 +1307,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_MINION_SACRIFICE.json"
+        "assets/cardpreview_bake/items/colorless/token/colorless_MINION_SACRIFICE.json"
       ]
     },
     {
@@ -1319,7 +1319,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Minion-Sacrifice\u002B.json"
+        "assets/cardpreview_bake/items/colorless/token/Minion-Sacrifice\u002B.json"
       ]
     },
     {
@@ -1331,7 +1331,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_MINION_STRIKE.json"
+        "assets/cardpreview_bake/items/colorless/token/colorless_MINION_STRIKE.json"
       ]
     },
     {
@@ -1343,7 +1343,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Minion-Strike\u002B.json"
+        "assets/cardpreview_bake/items/colorless/token/Minion-Strike\u002B.json"
       ]
     },
     {
@@ -1355,7 +1355,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_SHIV.json"
+        "assets/cardpreview_bake/items/colorless/token/colorless_SHIV.json"
       ]
     },
     {
@@ -1367,7 +1367,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Shiv\u002B.json"
+        "assets/cardpreview_bake/items/colorless/token/Shiv\u002B.json"
       ]
     },
     {
@@ -1379,7 +1379,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_SOUL.json"
+        "assets/cardpreview_bake/items/colorless/token/colorless_SOUL.json"
       ]
     },
     {
@@ -1391,7 +1391,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Soul\u002B.json"
+        "assets/cardpreview_bake/items/colorless/token/Soul\u002B.json"
       ]
     },
     {
@@ -1403,7 +1403,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_SOVEREIGN_BLADE.json"
+        "assets/cardpreview_bake/items/colorless/token/colorless_SOVEREIGN_BLADE.json"
       ]
     },
     {
@@ -1415,7 +1415,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Sovereign-Blade\u002B.json"
+        "assets/cardpreview_bake/items/colorless/token/Sovereign-Blade\u002B.json"
       ]
     },
     {
@@ -1427,7 +1427,7 @@
       "character": "colorless",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/colorless_SWEEPING_GAZE.json"
+        "assets/cardpreview_bake/items/colorless/token/colorless_SWEEPING_GAZE.json"
       ]
     },
     {
@@ -1439,7 +1439,7 @@
       "character": "colorless",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/colorless/Sweeping-Gaze\u002B.json"
+        "assets/cardpreview_bake/items/colorless/token/Sweeping-Gaze\u002B.json"
       ]
     },
     {
@@ -2603,7 +2603,7 @@
       "character": "defect",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/defect/blue_BIASED_COGNITION.json"
+        "assets/cardpreview_bake/items/defect/ancient/blue_BIASED_COGNITION.json"
       ]
     },
     {
@@ -2615,7 +2615,7 @@
       "character": "defect",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/defect/Biased-Cognition\u002B.json"
+        "assets/cardpreview_bake/items/defect/ancient/Biased-Cognition\u002B.json"
       ]
     },
     {
@@ -2627,7 +2627,7 @@
       "character": "defect",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/defect/blue_QUADCAST.json"
+        "assets/cardpreview_bake/items/defect/ancient/blue_QUADCAST.json"
       ]
     },
     {
@@ -2639,7 +2639,7 @@
       "character": "defect",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/defect/Quadcast\u002B.json"
+        "assets/cardpreview_bake/items/defect/ancient/Quadcast\u002B.json"
       ]
     },
     {
@@ -2651,7 +2651,7 @@
       "character": "defect",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/defect/blue_DEFEND_DEFECT.json"
+        "assets/cardpreview_bake/items/defect/basic/blue_DEFEND_DEFECT.json"
       ]
     },
     {
@@ -2663,7 +2663,7 @@
       "character": "defect",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/defect/Defend\u002B.json"
+        "assets/cardpreview_bake/items/defect/basic/Defend\u002B.json"
       ]
     },
     {
@@ -2675,7 +2675,7 @@
       "character": "defect",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/defect/blue_DUALCAST.json"
+        "assets/cardpreview_bake/items/defect/basic/blue_DUALCAST.json"
       ]
     },
     {
@@ -2687,7 +2687,7 @@
       "character": "defect",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/defect/Dualcast\u002B.json"
+        "assets/cardpreview_bake/items/defect/basic/Dualcast\u002B.json"
       ]
     },
     {
@@ -2699,7 +2699,7 @@
       "character": "defect",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/defect/blue_STRIKE_DEFECT.json"
+        "assets/cardpreview_bake/items/defect/basic/blue_STRIKE_DEFECT.json"
       ]
     },
     {
@@ -2711,7 +2711,7 @@
       "character": "defect",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/defect/Strike\u002B.json"
+        "assets/cardpreview_bake/items/defect/basic/Strike\u002B.json"
       ]
     },
     {
@@ -2723,7 +2723,7 @@
       "character": "defect",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/defect/blue_ZAP.json"
+        "assets/cardpreview_bake/items/defect/basic/blue_ZAP.json"
       ]
     },
     {
@@ -2735,7 +2735,7 @@
       "character": "defect",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/defect/Zap\u002B.json"
+        "assets/cardpreview_bake/items/defect/basic/Zap\u002B.json"
       ]
     },
     {
@@ -3227,7 +3227,7 @@
       "character": "defect",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/defect/blue_HELLO_WORLD.json"
+        "assets/cardpreview_bake/items/defect/event/blue_HELLO_WORLD.json"
       ]
     },
     {
@@ -3239,7 +3239,7 @@
       "character": "defect",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/defect/Hello-World\u002B.json"
+        "assets/cardpreview_bake/items/defect/event/Hello-World\u002B.json"
       ]
     },
     {
@@ -3251,7 +3251,7 @@
       "character": "defect",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/defect/blue_REBOUND.json"
+        "assets/cardpreview_bake/items/defect/event/blue_REBOUND.json"
       ]
     },
     {
@@ -3263,7 +3263,7 @@
       "character": "defect",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/defect/Rebound\u002B.json"
+        "assets/cardpreview_bake/items/defect/event/Rebound\u002B.json"
       ]
     },
     {
@@ -3275,7 +3275,7 @@
       "character": "defect",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/defect/blue_RIP_AND_TEAR.json"
+        "assets/cardpreview_bake/items/defect/event/blue_RIP_AND_TEAR.json"
       ]
     },
     {
@@ -3287,7 +3287,7 @@
       "character": "defect",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/defect/Rip-and-Tear\u002B.json"
+        "assets/cardpreview_bake/items/defect/event/Rip-and-Tear\u002B.json"
       ]
     },
     {
@@ -3299,7 +3299,7 @@
       "character": "defect",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/defect/blue_STACK.json"
+        "assets/cardpreview_bake/items/defect/event/blue_STACK.json"
       ]
     },
     {
@@ -3311,7 +3311,7 @@
       "character": "defect",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/defect/Stack\u002B.json"
+        "assets/cardpreview_bake/items/defect/event/Stack\u002B.json"
       ]
     },
     {
@@ -4811,7 +4811,7 @@
       "character": "ironclad",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/ironclad/red_BREAK.json"
+        "assets/cardpreview_bake/items/ironclad/ancient/red_BREAK.json"
       ]
     },
     {
@@ -4823,7 +4823,7 @@
       "character": "ironclad",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/ironclad/Break\u002B.json"
+        "assets/cardpreview_bake/items/ironclad/ancient/Break\u002B.json"
       ]
     },
     {
@@ -4835,7 +4835,7 @@
       "character": "ironclad",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/ironclad/red_CORRUPTION.json"
+        "assets/cardpreview_bake/items/ironclad/ancient/red_CORRUPTION.json"
       ]
     },
     {
@@ -4847,7 +4847,7 @@
       "character": "ironclad",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/ironclad/Corruption\u002B.json"
+        "assets/cardpreview_bake/items/ironclad/ancient/Corruption\u002B.json"
       ]
     },
     {
@@ -4859,7 +4859,7 @@
       "character": "ironclad",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/ironclad/red_BASH.json"
+        "assets/cardpreview_bake/items/ironclad/basic/red_BASH.json"
       ]
     },
     {
@@ -4871,7 +4871,7 @@
       "character": "ironclad",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/ironclad/Bash\u002B.json"
+        "assets/cardpreview_bake/items/ironclad/basic/Bash\u002B.json"
       ]
     },
     {
@@ -4883,7 +4883,7 @@
       "character": "ironclad",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/ironclad/red_DEFEND_IRONCLAD.json"
+        "assets/cardpreview_bake/items/ironclad/basic/red_DEFEND_IRONCLAD.json"
       ]
     },
     {
@@ -4895,7 +4895,7 @@
       "character": "ironclad",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/ironclad/Defend\u002B.json"
+        "assets/cardpreview_bake/items/ironclad/basic/Defend\u002B.json"
       ]
     },
     {
@@ -4907,7 +4907,7 @@
       "character": "ironclad",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/ironclad/red_STRIKE_IRONCLAD.json"
+        "assets/cardpreview_bake/items/ironclad/basic/red_STRIKE_IRONCLAD.json"
       ]
     },
     {
@@ -4919,7 +4919,7 @@
       "character": "ironclad",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/ironclad/Strike\u002B.json"
+        "assets/cardpreview_bake/items/ironclad/basic/Strike\u002B.json"
       ]
     },
     {
@@ -5411,7 +5411,7 @@
       "character": "ironclad",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/ironclad/red_CLASH.json"
+        "assets/cardpreview_bake/items/ironclad/event/red_CLASH.json"
       ]
     },
     {
@@ -5423,7 +5423,7 @@
       "character": "ironclad",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/ironclad/Clash\u002B.json"
+        "assets/cardpreview_bake/items/ironclad/event/Clash\u002B.json"
       ]
     },
     {
@@ -5435,7 +5435,7 @@
       "character": "ironclad",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/ironclad/red_DUAL_WIELD.json"
+        "assets/cardpreview_bake/items/ironclad/event/red_DUAL_WIELD.json"
       ]
     },
     {
@@ -5447,7 +5447,7 @@
       "character": "ironclad",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/ironclad/Dual-Wield\u002B.json"
+        "assets/cardpreview_bake/items/ironclad/event/Dual-Wield\u002B.json"
       ]
     },
     {
@@ -5459,7 +5459,7 @@
       "character": "ironclad",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/ironclad/red_ENTRENCH.json"
+        "assets/cardpreview_bake/items/ironclad/event/red_ENTRENCH.json"
       ]
     },
     {
@@ -5471,7 +5471,7 @@
       "character": "ironclad",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/ironclad/Entrench\u002B.json"
+        "assets/cardpreview_bake/items/ironclad/event/Entrench\u002B.json"
       ]
     },
     {
@@ -6971,7 +6971,7 @@
       "character": "necrobinder",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/necrobinder/pink_FORBIDDEN_GRIMOIRE.json"
+        "assets/cardpreview_bake/items/necrobinder/ancient/pink_FORBIDDEN_GRIMOIRE.json"
       ]
     },
     {
@@ -6983,7 +6983,7 @@
       "character": "necrobinder",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/necrobinder/Forbidden-Grimoire\u002B.json"
+        "assets/cardpreview_bake/items/necrobinder/ancient/Forbidden-Grimoire\u002B.json"
       ]
     },
     {
@@ -6995,7 +6995,7 @@
       "character": "necrobinder",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/necrobinder/pink_PROTECTOR.json"
+        "assets/cardpreview_bake/items/necrobinder/ancient/pink_PROTECTOR.json"
       ]
     },
     {
@@ -7007,7 +7007,7 @@
       "character": "necrobinder",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/necrobinder/Protector\u002B.json"
+        "assets/cardpreview_bake/items/necrobinder/ancient/Protector\u002B.json"
       ]
     },
     {
@@ -7019,7 +7019,7 @@
       "character": "necrobinder",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/necrobinder/pink_BODYGUARD.json"
+        "assets/cardpreview_bake/items/necrobinder/basic/pink_BODYGUARD.json"
       ]
     },
     {
@@ -7031,7 +7031,7 @@
       "character": "necrobinder",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/necrobinder/Bodyguard\u002B.json"
+        "assets/cardpreview_bake/items/necrobinder/basic/Bodyguard\u002B.json"
       ]
     },
     {
@@ -7043,7 +7043,7 @@
       "character": "necrobinder",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/necrobinder/pink_DEFEND_NECROBINDER.json"
+        "assets/cardpreview_bake/items/necrobinder/basic/pink_DEFEND_NECROBINDER.json"
       ]
     },
     {
@@ -7055,7 +7055,7 @@
       "character": "necrobinder",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/necrobinder/Defend\u002B.json"
+        "assets/cardpreview_bake/items/necrobinder/basic/Defend\u002B.json"
       ]
     },
     {
@@ -7067,7 +7067,7 @@
       "character": "necrobinder",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/necrobinder/pink_STRIKE_NECROBINDER.json"
+        "assets/cardpreview_bake/items/necrobinder/basic/pink_STRIKE_NECROBINDER.json"
       ]
     },
     {
@@ -7079,7 +7079,7 @@
       "character": "necrobinder",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/necrobinder/Strike\u002B.json"
+        "assets/cardpreview_bake/items/necrobinder/basic/Strike\u002B.json"
       ]
     },
     {
@@ -7091,7 +7091,7 @@
       "character": "necrobinder",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/necrobinder/pink_UNLEASH.json"
+        "assets/cardpreview_bake/items/necrobinder/basic/pink_UNLEASH.json"
       ]
     },
     {
@@ -7103,7 +7103,7 @@
       "character": "necrobinder",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/necrobinder/Unleash\u002B.json"
+        "assets/cardpreview_bake/items/necrobinder/basic/Unleash\u002B.json"
       ]
     },
     {
@@ -9119,7 +9119,7 @@
       "character": "regent",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/regent/orange_METEOR_SHOWER.json"
+        "assets/cardpreview_bake/items/regent/ancient/orange_METEOR_SHOWER.json"
       ]
     },
     {
@@ -9131,7 +9131,7 @@
       "character": "regent",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/regent/Meteor-Shower\u002B.json"
+        "assets/cardpreview_bake/items/regent/ancient/Meteor-Shower\u002B.json"
       ]
     },
     {
@@ -9143,7 +9143,7 @@
       "character": "regent",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/regent/orange_THE_SEALED_THRONE.json"
+        "assets/cardpreview_bake/items/regent/ancient/orange_THE_SEALED_THRONE.json"
       ]
     },
     {
@@ -9155,7 +9155,7 @@
       "character": "regent",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/regent/The-Sealed-Throne\u002B.json"
+        "assets/cardpreview_bake/items/regent/ancient/The-Sealed-Throne\u002B.json"
       ]
     },
     {
@@ -9167,7 +9167,7 @@
       "character": "regent",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/regent/orange_DEFEND_REGENT.json"
+        "assets/cardpreview_bake/items/regent/basic/orange_DEFEND_REGENT.json"
       ]
     },
     {
@@ -9179,7 +9179,7 @@
       "character": "regent",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/regent/Defend\u002B.json"
+        "assets/cardpreview_bake/items/regent/basic/Defend\u002B.json"
       ]
     },
     {
@@ -9191,7 +9191,7 @@
       "character": "regent",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/regent/orange_FALLING_STAR.json"
+        "assets/cardpreview_bake/items/regent/basic/orange_FALLING_STAR.json"
       ]
     },
     {
@@ -9203,7 +9203,7 @@
       "character": "regent",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/regent/Falling-Star\u002B.json"
+        "assets/cardpreview_bake/items/regent/basic/Falling-Star\u002B.json"
       ]
     },
     {
@@ -9215,7 +9215,7 @@
       "character": "regent",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/regent/orange_STRIKE_REGENT.json"
+        "assets/cardpreview_bake/items/regent/basic/orange_STRIKE_REGENT.json"
       ]
     },
     {
@@ -9227,7 +9227,7 @@
       "character": "regent",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/regent/Strike\u002B.json"
+        "assets/cardpreview_bake/items/regent/basic/Strike\u002B.json"
       ]
     },
     {
@@ -9239,7 +9239,7 @@
       "character": "regent",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/regent/orange_VENERATE.json"
+        "assets/cardpreview_bake/items/regent/basic/orange_VENERATE.json"
       ]
     },
     {
@@ -9251,7 +9251,7 @@
       "character": "regent",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/regent/Venerate\u002B.json"
+        "assets/cardpreview_bake/items/regent/basic/Venerate\u002B.json"
       ]
     },
     {
@@ -11231,7 +11231,7 @@
       "character": "silent",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/silent/green_SUPPRESS.json"
+        "assets/cardpreview_bake/items/silent/ancient/green_SUPPRESS.json"
       ]
     },
     {
@@ -11243,7 +11243,7 @@
       "character": "silent",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/silent/Suppress\u002B.json"
+        "assets/cardpreview_bake/items/silent/ancient/Suppress\u002B.json"
       ]
     },
     {
@@ -11255,7 +11255,7 @@
       "character": "silent",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/silent/green_WRAITH_FORM.json"
+        "assets/cardpreview_bake/items/silent/ancient/green_WRAITH_FORM.json"
       ]
     },
     {
@@ -11267,7 +11267,7 @@
       "character": "silent",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/silent/Wraith-Form\u002B.json"
+        "assets/cardpreview_bake/items/silent/ancient/Wraith-Form\u002B.json"
       ]
     },
     {
@@ -11279,7 +11279,7 @@
       "character": "silent",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/silent/green_DEFEND_SILENT.json"
+        "assets/cardpreview_bake/items/silent/basic/green_DEFEND_SILENT.json"
       ]
     },
     {
@@ -11291,7 +11291,7 @@
       "character": "silent",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/silent/Defend\u002B.json"
+        "assets/cardpreview_bake/items/silent/basic/Defend\u002B.json"
       ]
     },
     {
@@ -11303,7 +11303,7 @@
       "character": "silent",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/silent/green_NEUTRALIZE.json"
+        "assets/cardpreview_bake/items/silent/basic/green_NEUTRALIZE.json"
       ]
     },
     {
@@ -11315,7 +11315,7 @@
       "character": "silent",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/silent/Neutralize\u002B.json"
+        "assets/cardpreview_bake/items/silent/basic/Neutralize\u002B.json"
       ]
     },
     {
@@ -11327,7 +11327,7 @@
       "character": "silent",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/silent/green_STRIKE_SILENT.json"
+        "assets/cardpreview_bake/items/silent/basic/green_STRIKE_SILENT.json"
       ]
     },
     {
@@ -11339,7 +11339,7 @@
       "character": "silent",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/silent/Strike\u002B.json"
+        "assets/cardpreview_bake/items/silent/basic/Strike\u002B.json"
       ]
     },
     {
@@ -11351,7 +11351,7 @@
       "character": "silent",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/silent/green_SURVIVOR.json"
+        "assets/cardpreview_bake/items/silent/basic/green_SURVIVOR.json"
       ]
     },
     {
@@ -11363,7 +11363,7 @@
       "character": "silent",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/silent/Survivor\u002B.json"
+        "assets/cardpreview_bake/items/silent/basic/Survivor\u002B.json"
       ]
     },
     {
@@ -11855,7 +11855,7 @@
       "character": "silent",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/silent/green_CALTROPS.json"
+        "assets/cardpreview_bake/items/silent/event/green_CALTROPS.json"
       ]
     },
     {
@@ -11867,7 +11867,7 @@
       "character": "silent",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/silent/Caltrops\u002B.json"
+        "assets/cardpreview_bake/items/silent/event/Caltrops\u002B.json"
       ]
     },
     {
@@ -11879,7 +11879,7 @@
       "character": "silent",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/silent/green_DISTRACTION.json"
+        "assets/cardpreview_bake/items/silent/event/green_DISTRACTION.json"
       ]
     },
     {
@@ -11891,7 +11891,7 @@
       "character": "silent",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/silent/Distraction\u002B.json"
+        "assets/cardpreview_bake/items/silent/event/Distraction\u002B.json"
       ]
     },
     {
@@ -11903,7 +11903,7 @@
       "character": "silent",
       "isUpgraded": false,
       "sources": [
-        "assets/cardpreview_bake/items/silent/green_OUTMANEUVER.json"
+        "assets/cardpreview_bake/items/silent/event/green_OUTMANEUVER.json"
       ]
     },
     {
@@ -11915,7 +11915,7 @@
       "character": "silent",
       "isUpgraded": true,
       "sources": [
-        "assets/cardpreview_bake/items/silent/Outmaneuver\u002B.json"
+        "assets/cardpreview_bake/items/silent/event/Outmaneuver\u002B.json"
       ]
     },
     {
@@ -13404,6 +13404,4302 @@
       "isUpgraded": true,
       "sources": [
         "assets/cardpreview_bake/items/silent/uncommon/Well-Laid-Plans\u002B.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "FOCUS_POTION",
+      "name": "Focus Potion",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "defect",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/defect/common/defect_potion_pool_FOCUS_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "ESSENCE_OF_DARKNESS",
+      "name": "Essence of Darkness",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "defect",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/defect/rare/defect_potion_pool_ESSENCE_OF_DARKNESS.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "POTION_OF_CAPACITY",
+      "name": "Potion of Capacity",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "defect",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/defect/uncommon/defect_potion_pool_POTION_OF_CAPACITY.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "BLOOD_POTION",
+      "name": "Blood Potion",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "ironclad",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/ironclad/common/ironclad_potion_pool_BLOOD_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "SOLDIERS_STEW",
+      "name": "Soldier\u0027s Stew",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "ironclad",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/ironclad/rare/ironclad_potion_pool_SOLDIERS_STEW.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "ASHWATER",
+      "name": "Ashwater",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "ironclad",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/ironclad/uncommon/ironclad_potion_pool_ASHWATER.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "POTION_OF_DOOM",
+      "name": "Potion of Doom",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "necrobinder",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/necrobinder/common/necrobinder_potion_pool_POTION_OF_DOOM.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "POT_OF_GHOULS",
+      "name": "Pot of Ghouls",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "necrobinder",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/necrobinder/rare/necrobinder_potion_pool_POT_OF_GHOULS.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "BONE_BREW",
+      "name": "Bone Brew",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "necrobinder",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/necrobinder/uncommon/necrobinder_potion_pool_BONE_BREW.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "STAR_POTION",
+      "name": "Star Potion",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "regent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/regent/common/regent_potion_pool_STAR_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "COSMIC_CONCOCTION",
+      "name": "Cosmic Concoction",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "regent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/regent/rare/regent_potion_pool_COSMIC_CONCOCTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "KINGS_COURAGE",
+      "name": "King\u0027s Courage",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "regent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/regent/uncommon/regent_potion_pool_KINGS_COURAGE.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "ATTACK_POTION",
+      "name": "Attack Potion",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/common/shared_potion_pool_ATTACK_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "BLOCK_POTION",
+      "name": "Block Potion",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/common/shared_potion_pool_BLOCK_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "COLORLESS_POTION",
+      "name": "Colorless Potion",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/common/shared_potion_pool_COLORLESS_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "DEXTERITY_POTION",
+      "name": "Dexterity Potion",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/common/shared_potion_pool_DEXTERITY_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "ENERGY_POTION",
+      "name": "Energy Potion",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/common/shared_potion_pool_ENERGY_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "EXPLOSIVE_AMPOULE",
+      "name": "Explosive Ampoule",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/common/shared_potion_pool_EXPLOSIVE_AMPOULE.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "FIRE_POTION",
+      "name": "Fire Potion",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/common/shared_potion_pool_FIRE_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "FLEX_POTION",
+      "name": "Flex Potion",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/common/shared_potion_pool_FLEX_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "POWER_POTION",
+      "name": "Power Potion",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/common/shared_potion_pool_POWER_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "SKILL_POTION",
+      "name": "Skill Potion",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/common/shared_potion_pool_SKILL_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "SPEED_POTION",
+      "name": "Speed Potion",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/common/shared_potion_pool_SPEED_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "STRENGTH_POTION",
+      "name": "Strength Potion",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/common/shared_potion_pool_STRENGTH_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "SWIFT_POTION",
+      "name": "Swift Potion",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/common/shared_potion_pool_SWIFT_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "VULNERABLE_POTION",
+      "name": "Vulnerable Potion",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/common/shared_potion_pool_VULNERABLE_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "WEAK_POTION",
+      "name": "Weak Potion",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/common/shared_potion_pool_WEAK_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "BEETLE_JUICE",
+      "name": "Beetle Juice",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/rare/shared_potion_pool_BEETLE_JUICE.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "BOTTLED_POTENTIAL",
+      "name": "Bottled Potential",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/rare/shared_potion_pool_BOTTLED_POTENTIAL.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "DISTILLED_CHAOS",
+      "name": "Distilled Chaos",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/rare/shared_potion_pool_DISTILLED_CHAOS.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "DROPLET_OF_PRECOGNITION",
+      "name": "Droplet of Precognition",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/rare/shared_potion_pool_DROPLET_OF_PRECOGNITION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "ENTROPIC_BREW",
+      "name": "Entropic Brew",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/rare/shared_potion_pool_ENTROPIC_BREW.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "FAIRY_IN_A_BOTTLE",
+      "name": "Fairy in a Bottle",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/rare/shared_potion_pool_FAIRY_IN_A_BOTTLE.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "FRUIT_JUICE",
+      "name": "Fruit Juice",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/rare/shared_potion_pool_FRUIT_JUICE.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "GIGANTIFICATION_POTION",
+      "name": "Gigantification Potion",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/rare/shared_potion_pool_GIGANTIFICATION_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "LIQUID_MEMORIES",
+      "name": "Liquid Memories",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/rare/shared_potion_pool_LIQUID_MEMORIES.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "LUCKY_TONIC",
+      "name": "Lucky Tonic",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/rare/shared_potion_pool_LUCKY_TONIC.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "MAZALETHS_GIFT",
+      "name": "Mazaleth\u0027s Gift",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/rare/shared_potion_pool_MAZALETHS_GIFT.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "OROBIC_ACID",
+      "name": "Orobic Acid",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/rare/shared_potion_pool_OROBIC_ACID.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "SHACKLING_POTION",
+      "name": "Shackling Potion",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/rare/shared_potion_pool_SHACKLING_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "SHIP_IN_A_BOTTLE",
+      "name": "Ship in a Bottle",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/rare/shared_potion_pool_SHIP_IN_A_BOTTLE.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "SNECKO_OIL",
+      "name": "Snecko Oil",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/rare/shared_potion_pool_SNECKO_OIL.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "BLESSING_OF_THE_FORGE",
+      "name": "Blessing of the Forge",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/uncommon/shared_potion_pool_BLESSING_OF_THE_FORGE.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "CLARITY",
+      "name": "Clarity Extract",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/uncommon/shared_potion_pool_CLARITY.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "CURE_ALL",
+      "name": "Cure All",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/uncommon/shared_potion_pool_CURE_ALL.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "DUPLICATOR",
+      "name": "Duplicator",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/uncommon/shared_potion_pool_DUPLICATOR.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "FORTIFIER",
+      "name": "Fortifier",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/uncommon/shared_potion_pool_FORTIFIER.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "FYSH_OIL",
+      "name": "Fysh Oil",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/uncommon/shared_potion_pool_FYSH_OIL.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "GAMBLERS_BREW",
+      "name": "Gambler\u0027s Brew",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/uncommon/shared_potion_pool_GAMBLERS_BREW.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "HEART_OF_IRON",
+      "name": "Heart of Iron",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/uncommon/shared_potion_pool_HEART_OF_IRON.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "LIQUID_BRONZE",
+      "name": "Liquid Bronze",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/uncommon/shared_potion_pool_LIQUID_BRONZE.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "POTION_OF_BINDING",
+      "name": "Potion of Binding",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/uncommon/shared_potion_pool_POTION_OF_BINDING.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "POWDERED_DEMISE",
+      "name": "Powdered Demise",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/uncommon/shared_potion_pool_POWDERED_DEMISE.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "RADIANT_TINCTURE",
+      "name": "Radiant Tincture",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/uncommon/shared_potion_pool_RADIANT_TINCTURE.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "REGEN_POTION",
+      "name": "Regen Potion",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/uncommon/shared_potion_pool_REGEN_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "STABLE_SERUM",
+      "name": "Stable Serum",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/uncommon/shared_potion_pool_STABLE_SERUM.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "TOUCH_OF_INSANITY",
+      "name": "Touch of Insanity",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/shared/uncommon/shared_potion_pool_TOUCH_OF_INSANITY.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "POISON_POTION",
+      "name": "Poison Potion",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "silent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/silent/common/silent_potion_pool_POISON_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "GHOST_IN_A_JAR",
+      "name": "Ghost in a Jar",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "silent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/silent/rare/silent_potion_pool_GHOST_IN_A_JAR.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "CUNNING_POTION",
+      "name": "Cunning Potion",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "silent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/silent/uncommon/silent_potion_pool_CUNNING_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "POTION_SHAPED_ROCK",
+      "name": "Potion-Shaped Rock",
+      "rarity": "Token",
+      "cardType": null,
+      "character": "token",
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/token/token/token_potion_pool_POTION_SHAPED_ROCK.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "FOUL_POTION",
+      "name": "Foul Potion",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/event/event/event_potion_pool_FOUL_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "GLOWWATER_POTION",
+      "name": "Glowwater Potion",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/event/event/event_potion_pool_GLOWWATER_POTION.json"
+      ]
+    },
+    {
+      "kind": "potion",
+      "id": "DEPRECATED_POTION",
+      "name": "Deprecated Potion",
+      "rarity": "None",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/potionpreview_bake/items/deprecated/deprecated_potion_pool_DEPRECATED_POTION.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "DATA_DISK",
+      "name": "Data Disk",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "defect",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/defect/common/defect_relic_pool_DATA_DISK.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "EMOTION_CHIP",
+      "name": "Emotion Chip",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "defect",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/defect/rare/defect_relic_pool_EMOTION_CHIP.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "METRONOME",
+      "name": "Metronome",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "defect",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/defect/rare/defect_relic_pool_METRONOME.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "POWER_CELL",
+      "name": "Power Cell",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "defect",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/defect/rare/defect_relic_pool_POWER_CELL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "RUNIC_CAPACITOR",
+      "name": "Runic Capacitor",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "defect",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/defect/shop/defect_relic_pool_RUNIC_CAPACITOR.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "CRACKED_CORE",
+      "name": "Cracked Core",
+      "rarity": "Starter",
+      "cardType": null,
+      "character": "defect",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/defect/starter/defect_relic_pool_CRACKED_CORE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "GOLD_PLATED_CABLES",
+      "name": "Gold-Plated Cables",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "defect",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/defect/uncommon/defect_relic_pool_GOLD_PLATED_CABLES.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SYMBIOTIC_VIRUS",
+      "name": "Symbiotic Virus",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "defect",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/defect/uncommon/defect_relic_pool_SYMBIOTIC_VIRUS.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "RED_SKULL",
+      "name": "Red Skull",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "ironclad",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/ironclad/common/ironclad_relic_pool_RED_SKULL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "CHARONS_ASHES",
+      "name": "Charon\u0027s Ashes",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "ironclad",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/ironclad/rare/ironclad_relic_pool_CHARONS_ASHES.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "DEMON_TONGUE",
+      "name": "Demon Tongue",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "ironclad",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/ironclad/rare/ironclad_relic_pool_DEMON_TONGUE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "RUINED_HELMET",
+      "name": "Ruined Helmet",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "ironclad",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/ironclad/rare/ironclad_relic_pool_RUINED_HELMET.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BRIMSTONE",
+      "name": "Brimstone",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "ironclad",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/ironclad/shop/ironclad_relic_pool_BRIMSTONE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BURNING_BLOOD",
+      "name": "Burning Blood",
+      "rarity": "Starter",
+      "cardType": null,
+      "character": "ironclad",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/ironclad/starter/ironclad_relic_pool_BURNING_BLOOD.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PAPER_PHROG",
+      "name": "Paper Phrog",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "ironclad",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/ironclad/uncommon/ironclad_relic_pool_PAPER_PHROG.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SELF_FORMING_CLAY",
+      "name": "Self-Forming Clay",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "ironclad",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/ironclad/uncommon/ironclad_relic_pool_SELF_FORMING_CLAY.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BONE_FLUTE",
+      "name": "Bone Flute",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "necrobinder",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/necrobinder/common/necrobinder_relic_pool_BONE_FLUTE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BIG_HAT",
+      "name": "Big Hat",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "necrobinder",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/necrobinder/rare/necrobinder_relic_pool_BIG_HAT.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BOOKMARK",
+      "name": "Bookmark",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "necrobinder",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/necrobinder/rare/necrobinder_relic_pool_BOOKMARK.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "IVORY_TILE",
+      "name": "Ivory Tile",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "necrobinder",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/necrobinder/rare/necrobinder_relic_pool_IVORY_TILE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "UNDYING_SIGIL",
+      "name": "Undying Sigil",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "necrobinder",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/necrobinder/shop/necrobinder_relic_pool_UNDYING_SIGIL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BOUND_PHYLACTERY",
+      "name": "Bound Phylactery",
+      "rarity": "Starter",
+      "cardType": null,
+      "character": "necrobinder",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/necrobinder/starter/necrobinder_relic_pool_BOUND_PHYLACTERY.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BOOK_REPAIR_KNIFE",
+      "name": "Book Repair Knife",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "necrobinder",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/necrobinder/uncommon/necrobinder_relic_pool_BOOK_REPAIR_KNIFE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FUNERARY_MASK",
+      "name": "Funerary Mask",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "necrobinder",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/necrobinder/uncommon/necrobinder_relic_pool_FUNERARY_MASK.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FENCING_MANUAL",
+      "name": "Fencing Manual",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "regent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/regent/common/regent_relic_pool_FENCING_MANUAL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "LUNAR_PASTRY",
+      "name": "Lunar Pastry",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "regent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/regent/rare/regent_relic_pool_LUNAR_PASTRY.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "MINI_REGENT",
+      "name": "Mini Regent",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "regent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/regent/rare/regent_relic_pool_MINI_REGENT.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "ORANGE_DOUGH",
+      "name": "Orange Dough",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "regent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/regent/rare/regent_relic_pool_ORANGE_DOUGH.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "VITRUVIAN_MINION",
+      "name": "Vitruvian Minion",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "regent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/regent/shop/regent_relic_pool_VITRUVIAN_MINION.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "DIVINE_RIGHT",
+      "name": "Divine Right",
+      "rarity": "Starter",
+      "cardType": null,
+      "character": "regent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/regent/starter/regent_relic_pool_DIVINE_RIGHT.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "GALACTIC_DUST",
+      "name": "Galactic Dust",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "regent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/regent/uncommon/regent_relic_pool_GALACTIC_DUST.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "REGALITE",
+      "name": "Regalite",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "regent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/regent/uncommon/regent_relic_pool_REGALITE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "LOOMING_FRUIT",
+      "name": "Looming Fruit",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/ancient/shared_relic_pool_LOOMING_FRUIT.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "VERY_HOT_COCOA",
+      "name": "Very Hot Cocoa",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/ancient/shared_relic_pool_VERY_HOT_COCOA.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "AMETHYST_AUBERGINE",
+      "name": "Amethyst Aubergine",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_AMETHYST_AUBERGINE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "ANCHOR",
+      "name": "Anchor",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_ANCHOR.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BAG_OF_MARBLES",
+      "name": "Bag of Marbles",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_BAG_OF_MARBLES.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BAG_OF_PREPARATION",
+      "name": "Bag of Preparation",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_BAG_OF_PREPARATION.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BLOOD_VIAL",
+      "name": "Blood Vial",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_BLOOD_VIAL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BOOK_OF_FIVE_RINGS",
+      "name": "Book of Five Rings",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_BOOK_OF_FIVE_RINGS.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BRONZE_SCALES",
+      "name": "Bronze Scales",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_BRONZE_SCALES.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "CENTENNIAL_PUZZLE",
+      "name": "Centennial Puzzle",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_CENTENNIAL_PUZZLE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FESTIVE_POPPER",
+      "name": "Festive Popper",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_FESTIVE_POPPER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "GORGET",
+      "name": "Gorget",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_GORGET.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "HAPPY_FLOWER",
+      "name": "Happy Flower",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_HAPPY_FLOWER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "JUZU_BRACELET",
+      "name": "Juzu Bracelet",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_JUZU_BRACELET.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "LANTERN",
+      "name": "Lantern",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_LANTERN.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "MEAL_TICKET",
+      "name": "Meal Ticket",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_MEAL_TICKET.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "ODDLY_SMOOTH_STONE",
+      "name": "Oddly Smooth Stone",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_ODDLY_SMOOTH_STONE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PENDULUM",
+      "name": "Pendulum",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_PENDULUM.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "POTION_BELT",
+      "name": "Potion Belt",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_POTION_BELT.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "RED_MASK",
+      "name": "Red Mask",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_RED_MASK.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "REGAL_PILLOW",
+      "name": "Regal Pillow",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_REGAL_PILLOW.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "STRAWBERRY",
+      "name": "Strawberry",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_STRAWBERRY.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "STRIKE_DUMMY",
+      "name": "Strike Dummy",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_STRIKE_DUMMY.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "VAJRA",
+      "name": "Vajra",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_VAJRA.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "VENERABLE_TEA_SET",
+      "name": "Venerable Tea Set",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_VENERABLE_TEA_SET.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "WAR_PAINT",
+      "name": "War Paint",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_WAR_PAINT.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "WHETSTONE",
+      "name": "Whetstone",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/common/shared_relic_pool_WHETSTONE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FRESNEL_LENS",
+      "name": "Fresnel Lens",
+      "rarity": "Event",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/event/shared_relic_pool_FRESNEL_LENS.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "ART_OF_WAR",
+      "name": "Art of War",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_ART_OF_WAR.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BEATING_REMNANT",
+      "name": "Beating Remnant",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_BEATING_REMNANT.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BELLOWS",
+      "name": "Bellows",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_BELLOWS.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "CAPTAINS_WHEEL",
+      "name": "Captain\u0027s Wheel",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_CAPTAINS_WHEEL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "CHANDELIER",
+      "name": "Chandelier",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_CHANDELIER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "CLOAK_CLASP",
+      "name": "Cloak Clasp",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_CLOAK_CLASP.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FROZEN_EGG",
+      "name": "Frozen Egg",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_FROZEN_EGG.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "GAMBLING_CHIP",
+      "name": "Gambling Chip",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_GAMBLING_CHIP.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "GAME_PIECE",
+      "name": "Game Piece",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_GAME_PIECE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "GIRYA",
+      "name": "Girya",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_GIRYA.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "ICE_CREAM",
+      "name": "Ice Cream",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_ICE_CREAM.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "INTIMIDATING_HELMET",
+      "name": "Intimidating Helmet",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_INTIMIDATING_HELMET.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "KUNAI",
+      "name": "Kunai",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_KUNAI.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "LIZARD_TAIL",
+      "name": "Lizard Tail",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_LIZARD_TAIL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "MANGO",
+      "name": "Mango",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_MANGO.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "MEAT_ON_THE_BONE",
+      "name": "Meat on the Bone",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_MEAT_ON_THE_BONE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "MOLTEN_EGG",
+      "name": "Molten Egg",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_MOLTEN_EGG.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "MUMMIFIED_HAND",
+      "name": "Mummified Hand",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_MUMMIFIED_HAND.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "OLD_COIN",
+      "name": "Old Coin",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_OLD_COIN.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "POCKETWATCH",
+      "name": "Pocketwatch",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_POCKETWATCH.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PRAYER_WHEEL",
+      "name": "Prayer Wheel",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_PRAYER_WHEEL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "RAINBOW_RING",
+      "name": "Rainbow Ring",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_RAINBOW_RING.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SHOVEL",
+      "name": "Shovel",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_SHOVEL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SHURIKEN",
+      "name": "Shuriken",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_SHURIKEN.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "STONE_CALENDAR",
+      "name": "Stone Calendar",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_STONE_CALENDAR.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "STURDY_CLAMP",
+      "name": "Sturdy Clamp",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_STURDY_CLAMP.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "THE_COURIER",
+      "name": "The Courier",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_THE_COURIER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "TOXIC_EGG",
+      "name": "Toxic Egg",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_TOXIC_EGG.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "TUNGSTEN_ROD",
+      "name": "Tungsten Rod",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_TUNGSTEN_ROD.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "UNCEASING_TOP",
+      "name": "Unceasing Top",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_UNCEASING_TOP.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "UNSETTLING_LAMP",
+      "name": "Unsettling Lamp",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_UNSETTLING_LAMP.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "VEXING_PUZZLEBOX",
+      "name": "Vexing Puzzlebox",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_VEXING_PUZZLEBOX.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "WHITE_BEAST_STATUE",
+      "name": "White Beast Statue",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_WHITE_BEAST_STATUE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "WHITE_STAR",
+      "name": "White Star",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/rare/shared_relic_pool_WHITE_STAR.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BELT_BUCKLE",
+      "name": "Belt Buckle",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_BELT_BUCKLE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BREAD",
+      "name": "Bread",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_BREAD.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BURNING_STICKS",
+      "name": "Burning Sticks",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_BURNING_STICKS.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "CAULDRON",
+      "name": "Cauldron",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_CAULDRON.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "CHEMICAL_X",
+      "name": "Chemical X",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_CHEMICAL_X.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "DINGY_RUG",
+      "name": "Dingy Rug",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_DINGY_RUG.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "DOLLYS_MIRROR",
+      "name": "Dolly\u0027s Mirror",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_DOLLYS_MIRROR.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "DRAGON_FRUIT",
+      "name": "Dragon Fruit",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_DRAGON_FRUIT.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "GHOST_SEED",
+      "name": "Ghost Seed",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_GHOST_SEED.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "GNARLED_HAMMER",
+      "name": "Gnarled Hammer",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_GNARLED_HAMMER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "KIFUDA",
+      "name": "Kifuda",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_KIFUDA.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "LAVA_LAMP",
+      "name": "Lava Lamp",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_LAVA_LAMP.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "LEES_WAFFLE",
+      "name": "Lee\u0027s Waffle",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_LEES_WAFFLE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "MEMBERSHIP_CARD",
+      "name": "Membership Card",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_MEMBERSHIP_CARD.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "MINIATURE_TENT",
+      "name": "Miniature Tent",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_MINIATURE_TENT.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "MYSTIC_LIGHTER",
+      "name": "Mystic Lighter",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_MYSTIC_LIGHTER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "ORRERY",
+      "name": "Orrery",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_ORRERY.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PUNCH_DAGGER",
+      "name": "Punch Dagger",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_PUNCH_DAGGER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "RINGING_TRIANGLE",
+      "name": "Ringing Triangle",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_RINGING_TRIANGLE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "ROYAL_STAMP",
+      "name": "Royal Stamp",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_ROYAL_STAMP.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SCREAMING_FLAGON",
+      "name": "Screaming Flagon",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_SCREAMING_FLAGON.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SLING_OF_COURAGE",
+      "name": "Sling of Courage",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_SLING_OF_COURAGE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "THE_ABACUS",
+      "name": "The Abacus",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_THE_ABACUS.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "TOOLBOX",
+      "name": "Toolbox",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_TOOLBOX.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "WING_CHARM",
+      "name": "Wing Charm",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/shop/shared_relic_pool_WING_CHARM.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "AKABEKO",
+      "name": "Akabeko",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_AKABEKO.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BOWLER_HAT",
+      "name": "Bowler Hat",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_BOWLER_HAT.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "CANDELABRA",
+      "name": "Candelabra",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_CANDELABRA.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "ETERNAL_FEATHER",
+      "name": "Eternal Feather",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_ETERNAL_FEATHER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "GREMLIN_HORN",
+      "name": "Gremlin Horn",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_GREMLIN_HORN.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "HORN_CLEAT",
+      "name": "Horn Cleat",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_HORN_CLEAT.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "JOSS_PAPER",
+      "name": "Joss Paper",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_JOSS_PAPER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "KUSARIGAMA",
+      "name": "Kusarigama",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_KUSARIGAMA.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "LETTER_OPENER",
+      "name": "Letter Opener",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_LETTER_OPENER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "LUCKY_FYSH",
+      "name": "Lucky Fysh",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_LUCKY_FYSH.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "MERCURY_HOURGLASS",
+      "name": "Mercury Hourglass",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_MERCURY_HOURGLASS.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "MINIATURE_CANNON",
+      "name": "Miniature Cannon",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_MINIATURE_CANNON.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "NUNCHAKU",
+      "name": "Nunchaku",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_NUNCHAKU.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "ORICHALCUM",
+      "name": "Orichalcum",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_ORICHALCUM.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "ORNAMENTAL_FAN",
+      "name": "Ornamental Fan",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_ORNAMENTAL_FAN.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PANTOGRAPH",
+      "name": "Pantograph",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_PANTOGRAPH.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PARRYING_SHIELD",
+      "name": "Parrying Shield",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_PARRYING_SHIELD.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PEAR",
+      "name": "Pear",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_PEAR.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PEN_NIB",
+      "name": "Pen Nib",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_PEN_NIB.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PERMAFROST",
+      "name": "Permafrost",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_PERMAFROST.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PETRIFIED_TOAD",
+      "name": "Petrified Toad",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_PETRIFIED_TOAD.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PLANISPHERE",
+      "name": "Planisphere",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_PLANISPHERE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "REPTILE_TRINKET",
+      "name": "Reptile Trinket",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_REPTILE_TRINKET.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "RIPPLE_BASIN",
+      "name": "Ripple Basin",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_RIPPLE_BASIN.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "STONE_CRACKER",
+      "name": "Stone Cracker",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_STONE_CRACKER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "TINY_MAILBOX",
+      "name": "Tiny Mailbox",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_TINY_MAILBOX.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "TUNING_FORK",
+      "name": "Tuning Fork",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_TUNING_FORK.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "VAMBRACE",
+      "name": "Vambrace",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "shared",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/shared/uncommon/shared_relic_pool_VAMBRACE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SNECKO_SKULL",
+      "name": "Snecko Skull",
+      "rarity": "Common",
+      "cardType": null,
+      "character": "silent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/silent/common/silent_relic_pool_SNECKO_SKULL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "HELICAL_DART",
+      "name": "Helical Dart",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "silent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/silent/rare/silent_relic_pool_HELICAL_DART.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PAPER_KRANE",
+      "name": "Paper Krane",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "silent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/silent/rare/silent_relic_pool_PAPER_KRANE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "TOUGH_BANDAGES",
+      "name": "Tough Bandages",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": "silent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/silent/rare/silent_relic_pool_TOUGH_BANDAGES.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "NINJA_SCROLL",
+      "name": "Ninja Scroll",
+      "rarity": "Shop",
+      "cardType": null,
+      "character": "silent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/silent/shop/silent_relic_pool_NINJA_SCROLL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "RING_OF_THE_SNAKE",
+      "name": "Ring of the Snake",
+      "rarity": "Starter",
+      "cardType": null,
+      "character": "silent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/silent/starter/silent_relic_pool_RING_OF_THE_SNAKE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "TINGSHA",
+      "name": "Tingsha",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "silent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/silent/uncommon/silent_relic_pool_TINGSHA.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "TWISTED_FUNNEL",
+      "name": "Twisted Funnel",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": "silent",
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/silent/uncommon/silent_relic_pool_TWISTED_FUNNEL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "ALCHEMICAL_COFFER",
+      "name": "Alchemical Coffer",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_ALCHEMICAL_COFFER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "ARCANE_SCROLL",
+      "name": "Arcane Scroll",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_ARCANE_SCROLL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "ARCHAIC_TOOTH",
+      "name": "Archaic Tooth",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_ARCHAIC_TOOTH.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "ASTROLABE",
+      "name": "Astrolabe",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_ASTROLABE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BEAUTIFUL_BRACELET",
+      "name": "Beautiful Bracelet",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_BEAUTIFUL_BRACELET.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BIIIG_HUG",
+      "name": "Biiig Hug",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_BIIIG_HUG.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BLACK_STAR",
+      "name": "Black Star",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_BLACK_STAR.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BLESSED_ANTLER",
+      "name": "Blessed Antler",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_BLESSED_ANTLER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BLOOD_SOAKED_ROSE",
+      "name": "Blood-Soaked Rose",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_BLOOD_SOAKED_ROSE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BOOMING_CONCH",
+      "name": "Booming Conch",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_BOOMING_CONCH.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BRILLIANT_SCARF",
+      "name": "Brilliant Scarf",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_BRILLIANT_SCARF.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "CALLING_BELL",
+      "name": "Calling Bell",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_CALLING_BELL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "CHOICES_PARADOX",
+      "name": "Choices Paradox",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_CHOICES_PARADOX.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "CLAWS",
+      "name": "Claws",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_CLAWS.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "CROSSBOW",
+      "name": "Crossbow",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_CROSSBOW.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "CURSED_PEARL",
+      "name": "Cursed Pearl",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_CURSED_PEARL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "DELICATE_FROND",
+      "name": "Delicate Frond",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_DELICATE_FROND.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "DIAMOND_DIADEM",
+      "name": "Diamond Diadem",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_DIAMOND_DIADEM.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "DISTINGUISHED_CAPE",
+      "name": "Distinguished Cape",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_DISTINGUISHED_CAPE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "DRIFTWOOD",
+      "name": "Driftwood",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_DRIFTWOOD.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "DUSTY_TOME",
+      "name": "Dusty Tome",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_DUSTY_TOME.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "ECTOPLASM",
+      "name": "Ectoplasm",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_ECTOPLASM.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "ELECTRIC_SHRYMP",
+      "name": "Electric Shrymp",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_ELECTRIC_SHRYMP.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "EMPTY_CAGE",
+      "name": "Empty Cage",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_EMPTY_CAGE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FIDDLE",
+      "name": "Fiddle",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_FIDDLE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FUR_COAT",
+      "name": "Fur Coat",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_FUR_COAT.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "GLASS_EYE",
+      "name": "Glass Eye",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_GLASS_EYE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "GLITTER",
+      "name": "Glitter",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_GLITTER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "GOLDEN_COMPASS",
+      "name": "Golden Compass",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_GOLDEN_COMPASS.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "GOLDEN_PEARL",
+      "name": "Golden Pearl",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_GOLDEN_PEARL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "HEFTY_TABLET",
+      "name": "Hefty Tablet",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_HEFTY_TABLET.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "IRON_CLUB",
+      "name": "Iron Club",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_IRON_CLUB.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "JEWELED_MASK",
+      "name": "Jeweled Mask",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_JEWELED_MASK.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "JEWELRY_BOX",
+      "name": "Jewelry Box",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_JEWELRY_BOX.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "LARGE_CAPSULE",
+      "name": "Large Capsule",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_LARGE_CAPSULE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "LAVA_ROCK",
+      "name": "Lava Rock",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_LAVA_ROCK.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "LEAD_PAPERWEIGHT",
+      "name": "Lead Paperweight",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_LEAD_PAPERWEIGHT.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "LEAFY_POULTICE",
+      "name": "Leafy Poultice",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_LEAFY_POULTICE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "LORDS_PARASOL",
+      "name": "Lord\u0027s Parasol",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_LORDS_PARASOL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "LOST_COFFER",
+      "name": "Lost Coffer",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_LOST_COFFER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "MASSIVE_SCROLL",
+      "name": "Massive Scroll",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_MASSIVE_SCROLL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "MEAT_CLEAVER",
+      "name": "Meat Cleaver",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_MEAT_CLEAVER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "MUSIC_BOX",
+      "name": "Music Box",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_MUSIC_BOX.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "NEOWS_BONES",
+      "name": "Neow\u0027s Bones",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_NEOWS_BONES.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "NEOWS_TALISMAN",
+      "name": "Neow\u0027s Talisman",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_NEOWS_TALISMAN.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "NEOWS_TORMENT",
+      "name": "Neow\u0027s Torment",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_NEOWS_TORMENT.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "NEW_LEAF",
+      "name": "New Leaf",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_NEW_LEAF.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "NUTRITIOUS_OYSTER",
+      "name": "Nutritious Oyster",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_NUTRITIOUS_OYSTER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "NUTRITIOUS_SOUP",
+      "name": "Nutritious Soup",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_NUTRITIOUS_SOUP.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PAELS_BLOOD",
+      "name": "Pael\u0027s Blood",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_PAELS_BLOOD.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PAELS_CLAW",
+      "name": "Pael\u0027s Claw",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_PAELS_CLAW.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PAELS_EYE",
+      "name": "Pael\u0027s Eye",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_PAELS_EYE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PAELS_FLESH",
+      "name": "Pael\u0027s Flesh",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_PAELS_FLESH.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PAELS_GROWTH",
+      "name": "Pael\u0027s Growth",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_PAELS_GROWTH.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PAELS_HORN",
+      "name": "Pael\u0027s Horn",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_PAELS_HORN.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PAELS_LEGION",
+      "name": "Pael\u0027s Legion",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_PAELS_LEGION.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PAELS_TEARS",
+      "name": "Pael\u0027s Tears",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_PAELS_TEARS.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PAELS_TOOTH",
+      "name": "Pael\u0027s Tooth",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_PAELS_TOOTH.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PAELS_WING",
+      "name": "Pael\u0027s Wing",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_PAELS_WING.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PANDORAS_BOX",
+      "name": "Pandora\u0027s Box",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_PANDORAS_BOX.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PHIAL_HOLSTER",
+      "name": "Phial Holster",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_PHIAL_HOLSTER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PHILOSOPHERS_STONE",
+      "name": "Philosopher\u0027s Stone",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_PHILOSOPHERS_STONE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "POMANDER",
+      "name": "Pomander",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_POMANDER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PRECARIOUS_SHEARS",
+      "name": "Precarious Shears",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_PRECARIOUS_SHEARS.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PRECISE_SCISSORS",
+      "name": "Precise Scissors",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_PRECISE_SCISSORS.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PRESERVED_FOG",
+      "name": "Preserved Fog",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_PRESERVED_FOG.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PRISMATIC_GEM",
+      "name": "Prismatic Gem",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_PRISMATIC_GEM.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PUMPKIN_CANDLE",
+      "name": "Pumpkin Candle",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_PUMPKIN_CANDLE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "RADIANT_PEARL",
+      "name": "Radiant Pearl",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_RADIANT_PEARL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "RUNIC_PYRAMID",
+      "name": "Runic Pyramid",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_RUNIC_PYRAMID.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SAI",
+      "name": "Sai",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_SAI.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SAND_CASTLE",
+      "name": "Sand Castle",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_SAND_CASTLE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SCROLL_BOXES",
+      "name": "Scroll Boxes",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_SCROLL_BOXES.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SEA_GLASS",
+      "name": "Sea Glass",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_SEA_GLASS.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SEAL_OF_GOLD",
+      "name": "Seal of Gold",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_SEAL_OF_GOLD.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SERE_TALON",
+      "name": "Sere Talon",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_SERE_TALON.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SIGNET_RING",
+      "name": "Signet Ring",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_SIGNET_RING.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SILVER_CRUCIBLE",
+      "name": "Silver Crucible",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_SILVER_CRUCIBLE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SMALL_CAPSULE",
+      "name": "Small Capsule",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_SMALL_CAPSULE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SNECKO_EYE",
+      "name": "Snecko Eye",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_SNECKO_EYE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SOZU",
+      "name": "Sozu",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_SOZU.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SPIKED_GAUNTLETS",
+      "name": "Spiked Gauntlets",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_SPIKED_GAUNTLETS.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "STONE_HUMIDIFIER",
+      "name": "Stone Humidifier",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_STONE_HUMIDIFIER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "STORYBOOK",
+      "name": "Storybook",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_STORYBOOK.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "TANXS_WHISTLE",
+      "name": "Tanx\u0027s Whistle",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_TANXS_WHISTLE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "THROWING_AXE",
+      "name": "Throwing Axe",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_THROWING_AXE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "TOASTY_MITTENS",
+      "name": "Toasty Mittens",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_TOASTY_MITTENS.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "TOUCH_OF_OROBAS",
+      "name": "Touch of Orobas",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_TOUCH_OF_OROBAS.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "TOY_BOX",
+      "name": "Toy Box",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_TOY_BOX.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "TRI_BOOMERANG",
+      "name": "Tri-Boomerang",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_TRI_BOOMERANG.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "VELVET_CHOKER",
+      "name": "Velvet Choker",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_VELVET_CHOKER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "WAR_HAMMER",
+      "name": "War Hammer",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_WAR_HAMMER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "WHISPERING_EARRING",
+      "name": "Whispering Earring",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_WHISPERING_EARRING.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "WINGED_BOOTS",
+      "name": "Winged Boots",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_WINGED_BOOTS.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "YUMMY_COOKIE",
+      "name": "Yummy Cookie",
+      "rarity": "Ancient",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/ancient/event_relic_pool_YUMMY_COOKIE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FAKE_ANCHOR",
+      "name": "Anchor???",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_FAKE_ANCHOR.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BIG_MUSHROOM",
+      "name": "Big Mushroom",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_BIG_MUSHROOM.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BING_BONG",
+      "name": "Bing Bong",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_BING_BONG.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FAKE_BLOOD_VIAL",
+      "name": "Blood Vial???",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_FAKE_BLOOD_VIAL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BONE_TEA",
+      "name": "Bone Tea",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_BONE_TEA.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BYRDPIP",
+      "name": "Byrdpip",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_BYRDPIP.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "DARKSTONE_PERIAPT",
+      "name": "Darkstone Periapt",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_DARKSTONE_PERIAPT.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "DAUGHTER_OF_THE_WIND",
+      "name": "Daughter of the Wind",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_DAUGHTER_OF_THE_WIND.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "DREAM_CATCHER",
+      "name": "Dream Catcher",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_DREAM_CATCHER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "EMBER_TEA",
+      "name": "Ember Tea",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_EMBER_TEA.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FORGOTTEN_SOUL",
+      "name": "Forgotten Soul",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_FORGOTTEN_SOUL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FRAGRANT_MUSHROOM",
+      "name": "Fragrant Mushroom",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_FRAGRANT_MUSHROOM.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "HAND_DRILL",
+      "name": "Hand Drill",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_HAND_DRILL.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FAKE_HAPPY_FLOWER",
+      "name": "Happy Flower???",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_FAKE_HAPPY_FLOWER.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "HISTORY_COURSE",
+      "name": "History Course",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_HISTORY_COURSE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FAKE_LEES_WAFFLE",
+      "name": "Lee\u0027s Waffle???",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_FAKE_LEES_WAFFLE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "LOST_WISP",
+      "name": "Lost Wisp",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_LOST_WISP.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FAKE_MANGO",
+      "name": "Mango???",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_FAKE_MANGO.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "MAW_BANK",
+      "name": "Maw Bank",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_MAW_BANK.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "MR_STRUGGLES",
+      "name": "Mr. Struggles",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_MR_STRUGGLES.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FAKE_ORICHALCUM",
+      "name": "Orichalcum???",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_FAKE_ORICHALCUM.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "POLLINOUS_CORE",
+      "name": "Pollinous Core",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_POLLINOUS_CORE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "ROYAL_POISON",
+      "name": "Royal Poison",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_ROYAL_POISON.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FAKE_SNECKO_EYE",
+      "name": "Snecko Eye???",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_FAKE_SNECKO_EYE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FAKE_STRIKE_DUMMY",
+      "name": "Strike Dummy???",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_FAKE_STRIKE_DUMMY.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SWORD_OF_JADE",
+      "name": "Sword of Jade",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_SWORD_OF_JADE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SWORD_OF_STONE",
+      "name": "Sword of Stone",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_SWORD_OF_STONE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "TEA_OF_DISCOURTESY",
+      "name": "Tea of Discourtesy",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_TEA_OF_DISCOURTESY.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "THE_BOOT",
+      "name": "The Boot",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_THE_BOOT.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "CHOSEN_CHEESE",
+      "name": "The Chosen Cheese",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_CHOSEN_CHEESE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FAKE_MERCHANTS_RUG",
+      "name": "The Merchant\u0027s Rug???",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_FAKE_MERCHANTS_RUG.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "FAKE_VENERABLE_TEA_SET",
+      "name": "Venerable Tea Set???",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_FAKE_VENERABLE_TEA_SET.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "WONGO_CUSTOMER_APPRECIATION_BADGE",
+      "name": "Wongo Customer Appreciation Badge",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_WONGO_CUSTOMER_APPRECIATION_BADGE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "WONGOS_MYSTERY_TICKET",
+      "name": "Wongo\u0027s Mystery Ticket",
+      "rarity": "Event",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/event/event_relic_pool_WONGOS_MYSTERY_TICKET.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "CIRCLET",
+      "name": "Circlet",
+      "rarity": "None",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/fallback/fallback_relic_pool_CIRCLET.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "DEPRECATED_RELIC",
+      "name": "Deprecated Relic",
+      "rarity": "None",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/deprecated/deprecated_relic_pool_DEPRECATED_RELIC.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "RAZOR_TOOTH",
+      "name": "Razor Tooth",
+      "rarity": "Rare",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/rare/event_relic_pool_RAZOR_TOOTH.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "BLACK_BLOOD",
+      "name": "Black Blood",
+      "rarity": "Starter",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/starter/event_relic_pool_BLACK_BLOOD.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "DIVINE_DESTINY",
+      "name": "Divine Destiny",
+      "rarity": "Starter",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/starter/event_relic_pool_DIVINE_DESTINY.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "INFUSED_CORE",
+      "name": "Infused Core",
+      "rarity": "Starter",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/starter/event_relic_pool_INFUSED_CORE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "PHYLACTERY_UNBOUND",
+      "name": "Phylactery Unbound",
+      "rarity": "Starter",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/starter/event_relic_pool_PHYLACTERY_UNBOUND.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "RING_OF_THE_DRAKE",
+      "name": "Ring of the Drake",
+      "rarity": "Starter",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/starter/event_relic_pool_RING_OF_THE_DRAKE.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "LASTING_CANDY",
+      "name": "Lasting Candy",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/uncommon/event_relic_pool_LASTING_CANDY.json"
+      ]
+    },
+    {
+      "kind": "relic",
+      "id": "SPARKLING_ROUGE",
+      "name": "Sparkling Rouge",
+      "rarity": "Uncommon",
+      "cardType": null,
+      "character": null,
+      "isUpgraded": false,
+      "sources": [
+        "assets/relicpreview_bake/items/event/uncommon/event_relic_pool_SPARKLING_ROUGE.json"
       ]
     }
   ]
