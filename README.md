@@ -1,20 +1,28 @@
 # sts2-image-versions
 
-Versioned reference data for *Slay the Spire 2* game images. Currrently only cards but soon to hopefully include potions and relics—as they appear in each game patch. The card images are reconstructed from the game itself and are not exact duplicates. I have done my best to make them as close as possible so that content creators can use them for their videos and streams.
+Versioned reference data for *Slay the Spire 2* game images and attributes. Currrently I am only extracting and creating the cards but hopefully soon I will include potions and relics. The card images are reconstructed from the game itself and are not exact duplicates. I have done my best to make them as close as possible so that content creators can use them for their videos and streams.
 
 **sts2-image-versions** keeps a durable, browsable history so anyone can look up *which image belonged to which game version*, without digging through local extract folders or old VODs.
 
-## What this is for: content creators, wiki authors, historical interests as STS2 evolves
+## Who this is for: myself first but also .... other content creators, wiki authors, or people with an interest in the historical evolution of STS2.
+
+## My plan
+
+Maintain a copy of assets with the meta-data of those assets for each stable release. 
+
+I do not plan to capture beta builds. Why? It takes a considerable amount of time to do capture each version.
 
 ### Reference by game version
 
 When art, names, or card text change between patches, tools and wikis need a stable source of truth per version. Each top-level folder (for example `v0.103.2/`) is a snapshot aligned to a specific STS2 build. You can diff folders across versions, pin a tool to a release, or link documentation to an exact patch.
 
-Content types are organized the same way the extract pipeline does—starting with **cards**, and expanding to **potions**, **relics**, and other item kinds as they are published here.
+Content types are organized starting with **cards**, and expanding to **potions**, **relics**, and other item kinds as they are published here.
 
 ### Content creator overlay
 
-This repo also backs a **content-creation overlay** for STS2 streamers and video creators that is current in development. During live streams or recordings, the overlay can show card art, names, descriptions, and related details on screen so viewers can read them **after** the moment has passed—useful when gameplay moves quickly and chat-only explanations disappear.
+This repo also backs a **content-creation overlay** for STS2 streamers and video creators that is currently in development. During live streams or recordings, the overlay can show card art, names, descriptions, and related details on screen so viewers can read them **after** the moment has passed, extremely useful when gameplay moves quickly and chat-only explanations disappear. 
+
+I have been creating sts2 videos as time permits and been slowed by the editting effort involved. I like to display each item (card, relic, potion) on the screen _after_ the selection has been made in a larger format for the viewer to see the details. The **content-creation overlay** I am working on will do that automatically while i play the game, saving me multiple hours of editing per video.
 
 The overlay is meant to complement gameplay, not replace it: persistent, accurate visuals tied to the same versioned data this repository stores.
 
@@ -52,4 +60,4 @@ Typical flow: run or update the extract project for a new patch → copy or publ
 
 ## Contributing
 
-If you maintain the extract pipeline or overlay: open issues or pull requests for missing versions, incorrect metadata, or `.gitignore` adjustments. When adding a version, prefer a single folder per game build and a short note in the PR describing the patch source (build number or release date).
+I am not looking for collaborators at this time but if you have suggestions, please feel free to share.
