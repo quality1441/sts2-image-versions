@@ -40,7 +40,7 @@ v<game-version>/
 
 Some paths are intentionally excluded from version control (sample cards, deprecated entries, and other non-shipping content). See `.gitignore` for the current rules.
 
-## Relationship to sts2-image-extract
+## Relationship to sts2-image-extract (private repo)
 
 | Repository | Role |
 |------------|------|
