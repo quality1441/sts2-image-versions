@@ -4,7 +4,8 @@ Versioned reference data for *Slay the Spire 2* game images and attributes. Curr
 
 **sts2-image-versions** keeps a durable, browsable history so anyone can look up *which image belonged to which game version*, without digging through local extract folders or old VODs.
 
-## Who this is for: myself first but also .... other content creators, wiki authors, or people with an interest in the historical evolution of STS2.
+## Who this is for: 
+myself first but also .... other content creators, wiki authors, or people with an interest in the historical evolution of STS2.
 
 ## My plan
 
