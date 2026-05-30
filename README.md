@@ -36,7 +36,7 @@ v<game-version>/
 ```
 
 - **Version folders** — Named after the game build (e.g. `v0.103.2/`). Add a new folder when a new patch is extracted and validated.
-- **Images** — Full asset trees may be omitted from git where they are large or regenerated; see `.gitignore`. Metadata still records canonical paths and cache-busting query parameters for icons as produced by the extract pipeline.
+- **Images** — Combined card art is stored as **WebP** under `cards/` (and `potions/`, `relics/` when published). **PNG is gitignored** (`**/*.png`). The `assets/` tree stays local-only unless you change `.gitignore`. Run `sts2-card-extract` → `scripts/convert-png-to-webp.cmd` after publishing from the mod cache.
 
 Some paths are intentionally excluded from version control (sample cards, deprecated entries, and other non-shipping content). See `.gitignore` for the current rules.
 

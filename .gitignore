@@ -1,3 +1,6 @@
+# PNG rasters — publish WebP instead (see sts2-card-extract scripts/convert-png-to-webp)
+**/*.png
+
 # Entire assets tree (root or under version folders, e.g. v0.103.2/assets/)
 assets/
 
