@@ -11,7 +11,7 @@ myself first but also .... other content creators, wiki authors, or people with 
 
 Maintain a copy of assets with the meta-data of those assets for each stable release. 
 
-I do not plan to capture beta builds. Why? It takes a considerable amount of time to do capture each version.
+I do not plan to capture beta builds. Why? It takes a considerable amount of time to capture each version.
 
 ### Reference by game version
 
@@ -21,9 +21,9 @@ Content types are organized starting with **cards**, and expanding to **potions*
 
 ### Content creator overlay
 
-This repo also backs a [**content-creation overlay**](https://github.com/quality1441/sts2-stream-overlay) for STS2 streamers and video creators that is under development. During live streams or recordings, the overlay can show card art, names, descriptions, and related details on screen so viewers can read them **after** the moment has passed, extremely useful when gameplay moves quickly and chat-only explanations disappear. 
+This repo also backs Stream the Spire, a [**content-creation overlay**]([https://github.com/quality1441/sts2-stream-overlay](https://github.com/quality1441/stream-the-spire/releases)) for STS2 streamers and video creators. During live streams or recordings, the overlay can show card art, names, descriptions, and related details on screen so viewers can read them **after** the moment has passed, extremely useful when gameplay moves quickly and chat-only explanations disappear. 
 
-I have been creating sts2 videos as time permits and been slowed by the editting effort involved. I like to display each item (card, relic, potion) on the screen _after_ the selection has been made in a larger format for the viewer to see the details. The [**content-creation overlay**](https://github.com/quality1441/sts2-stream-overlay) I am working on will do that automatically while i play the game, saving me multiple hours of editing per video.
+I have been creating Slay the Spire 2 videos as time permits and been slowed by the editting effort involved. I like to display each item (card, relic, potion) on the screen _after_ the selection has been made in a larger format for the viewer to see the details.  [**Stream the Spire**]([https://github.com/quality1441/sts2-stream-overlay](https://github.com/quality1441/stream-the-spire/releases)) will do that automatically while I play the game, saving me multiple hours of editing per video.
 
 The overlay is meant to complement gameplay, not replace it: persistent, accurate visuals tied to the same versioned data this repository stores.
 
@@ -38,15 +38,15 @@ v<game-version>/
   ...
 ```
 
-- **Version folders** — Named after the game build (e.g. `v0.103.2/`). Add a new folder when a new patch is extracted and validated.
-- **Images** — Combined card art is stored as **WebP** under `cards/`, `potions/`, and `relics/`.
+- **Version folders** : Named after the game build (e.g. `v0.103.2/`). Add a new folder when a new patch is extracted and validated.
+- **Images** : Combined card art is stored as **WebP** under `cards/`, `potions/`, and `relics/`.
   
 ## Who might use this
 
-- **Content creators** — Overlays, panels, and “last seen card” style widgets for streams and YouTube.
-- **Tool and wiki authors** — Stable URLs and metadata per patch.
-- **Researchers and dataminers** — Compare how icons and text changed between versions.
-- **Viewers** — Indirectly, via creators and sites that reference this data.
+- **Content creators** : Overlays, panels, and “last seen card” style widgets for streams and YouTube.
+- **Tool and wiki authors** : Stable URLs and metadata per patch.
+- **Researchers and dataminers** : Compare how icons and text changed between versions.
+- **Viewers** : Indirectly, via creators and sites that reference this data.
 
 ## Disclaimer
 
