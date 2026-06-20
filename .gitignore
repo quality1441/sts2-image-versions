@@ -16,3 +16,4 @@ assets/
 **/cards/colorless/*MAD_SCIENCE*
 /scripts
 /v0.103.2/relics/fallback
+*.zip
