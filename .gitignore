@@ -17,3 +17,4 @@ assets/
 /scripts
 /v0.103.2/relics/fallback
 *.zip
+/.cursor
