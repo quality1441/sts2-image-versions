@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Card changes, v0.107.1 to v0.113.1</title>
+  <meta name="description" content="Slay the Spire 2 cards that changed, were added, or were removed between v0.107.1 and v0.113.1.">
+  <link rel="stylesheet" href="report.css">
+</head>
+<body>
+  <header class="page-header">
+    <p class="eyebrow">Slay the Spire 2 image catalog</p>
+    <h1>Card changes, v0.107.1 to v0.113.1</h1>
+    <p class="lede">Each card is one entry, sorted by hero. Base and upgraded forms are listed only when that form changed. Energy icons inside the card text are written as {E}. Color tags are left out so only the words are compared.</p>
+    <p class="aside">A long page with a large picture of each card is in the <a href="https://github.com/quality1441/sts2-image-versions/blob/main/v0.113.1/README.md">v0.113.1 folder</a>.</p>
+  </header>
+
+  <section class="stats" id="stats" aria-label="Change totals"></section>
+
+  <section class="panel" aria-labelledby="chart-title">
+    <h2 id="chart-title">Cards added, removed, or changed by hero</h2>
+    <div id="chart"></div>
+    <p class="aside">Card count, base and upgraded counted once. Fool is new, so every Fool card is an add.</p>
+  </section>
+
+  <p class="callout" id="enchant-note"></p>
+
+  <form class="filters" id="filters">
+    <label>Hero
+      <select id="hero" name="hero"></select>
+    </label>
+    <label>Show
+      <select id="kind" name="kind">
+        <option value="changed">Changes only</option>
+        <option value="added">New cards</option>
+        <option value="removed">Removed cards</option>
+        <option value="all">Everything</option>
+      </select>
+    </label>
+    <label class="filter-search">Name or text
+      <input id="query" name="q" type="search" placeholder="Filter by name or text" autocomplete="off">
+    </label>
+  </form>
+
+  <div id="heroes"></div>
+  <p class="empty" id="empty" hidden>No cards match this filter.</p>
+
+  <p class="find-me">Find me: <a href="https://www.twitch.tv/qaulitytv">Twitch</a> · <a href="https://www.youtube.com/channel/UCt54IF_LhyLHAQbf1pB2BSA">YouTube</a> · <a href="https://qaulity.s.gy/github">Discord</a> · <a href="https://www.patreon.com/cw/Qaulity">Patreon</a> · <a href="https://www.nexusmods.com/profile/qaulity">Nexus Mods</a></p>
+
+  <script src="report.js" type="module"></script>
+</body>
+</html>
