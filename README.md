@@ -35,6 +35,7 @@ v<game-version>/
   potions/         # Potion metadata and references
   relics/          # Relics metadata and references
   item-index.json  # Catalog of all images in the set. Consumed by [Stream Overlay](https://github.com/quality1441/sts2-stream-overlay) project.
+  README.md        # Card changes since the previous version, when that page exists
   ...
 ```
 
